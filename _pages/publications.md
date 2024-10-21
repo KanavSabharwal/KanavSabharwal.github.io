@@ -22,20 +22,24 @@ author_profile: true
   \[[code](https://github.com/KanavSabharwal/GLoRiPHY)\]
   <span style="color:red"><i>New</i></span>
 
-* EGAL: Enhancing LoRa Network Lifetime with Load Balancing [Under Submission]    
+* EGAL: Enhancing LoRa Network Lifetime with Load Balancing
+  **[SECON '24]**      
   Malaika Afra Taj, **Kanav Sabharwal**, Mun Choon Chan   
   <!-- \[[draft]({{ base_path }}/files/papers/draft23-junction.pdf)\] -->
   <!-- <span style="color:red"><i>New</i></span> -->
 
-* Attacking logo-based phishing website detectors with adversarial perturbations **[ESORICS '23]**   
+* Attacking logo-based phishing website detectors with adversarial perturbations
+  **[ESORICS '23]**   
   Jehyun Lee, Zhe Xin, Melanie Ng Pei See, **Kanav Sabharwal**, Giovanni Apruzzese, Dinil Mon Divakaran  
   \[[paper](https://doi.org/10.1007/978-3-031-51479-1_9)\]
 
-* Testing Masks and Air Filters With Your Smartphones **[SENSYS '23]**   
+* Testing Masks and Air Filters With Your Smartphones 
+  **[SENSYS '23]**   
   Bangjie Sun,  **Kanav Sabharwal**, Gyuyeon Kim, Mun Choon Chan, Jun Han  
   \[[paper](https://doi.org/10.1145/3625687.3625807)\]
 
-* iPET: privacy enhancing traffic perturbations for secure IoT communications **[PETS '23]**   
+* iPET: privacy enhancing traffic perturbations for secure IoT communications 
+  **[PETS '23]**   
   Akshaye Shenoi\*, Prasanna Karthik Vairam\*, **Kanav Sabharwal**\*, Jialin Li, Dinil Mon Divakaran  
   <span style="font-size: 0.9em; color: grey;"><i>\*Authors contributed equally</i></span>  
   \[[paper](https://doi.org/10.56553/popets-2023-0048)\]
