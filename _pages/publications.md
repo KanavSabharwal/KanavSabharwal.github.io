@@ -18,14 +18,14 @@ author_profile: true
 * Enhancing LoRa Reception with Generative Models: Channel-Aware Denoising of LoRaPHY Signals  
   **[SENSYS '24]**    
   **Kanav Sabharwal**, Soundarya Ramesh, Jingxian Wang, Dinil Mon Divakaran, Mun Choon Chan   
-  \[[paper]({{ base_path }}/files/sensys24-GLoRiPHY.pdf)\]
+  \[[paper](https://doi.org/10.1145/3666025.3699354)\]
   \[[code](https://github.com/KanavSabharwal/GLoRiPHY)\]
   <span style="color:red"><i>New</i></span>
 
 * EGAL: Enhancing LoRa Network Lifetime with Load Balancing
   **[SECON '24]**      
   Malaika Afra Taj, **Kanav Sabharwal**, Mun Choon Chan   
-  <!-- \[[draft]({{ base_path }}/files/papers/draft23-junction.pdf)\] -->
+  \[[paper]({{ base_path }}/files/EGAL_SECON_24.pdf)\]
   <!-- <span style="color:red"><i>New</i></span> -->
 
 * Attacking logo-based phishing website detectors with adversarial perturbations
