@@ -20,6 +20,7 @@ author_profile: true
   **Kanav Sabharwal**, Soundarya Ramesh, Jingxian Wang, Dinil Mon Divakaran, Mun Choon Chan   
   \[[paper](https://doi.org/10.1145/3666025.3699354)\]
   \[[code](https://github.com/KanavSabharwal/GLoRiPHY)\]
+  \[[slides]({{ base_path }}/files/GLoRiPHY_Sensys_Slides.pdf)\]
   <span style="color:red"><i>New</i></span>
 
 * EGAL: Enhancing LoRa Network Lifetime with Load Balancing
